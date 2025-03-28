@@ -1,0 +1,11 @@
+{
+  "name": "afro-defender",
+  "version": "1.0.0",
+  "description": "A first-person shooter game where you defend yourself against MAGA Trump supporters",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+} 
